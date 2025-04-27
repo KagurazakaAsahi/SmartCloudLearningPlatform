@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 26 14:24:34 CST 2019
+http\://repo.maven.apache.org/maven2/.lastUpdated=1577341474703
+@default-sonatype-nexus-staging-https\://oss.sonatype.org/service/local/staging/deploy/maven2/.lastUpdated=1577341474238
+https\://oss.sonatype.org/service/local/staging/deploy/maven2/.error=Could not transfer artifact com.aliyun\:aliyun-sdk-vod-upload\:pom\:unknown from/to sonatype-nexus-staging (https\://oss.sonatype.org/service/local/staging/deploy/maven2/)\: Not authorized
+http\://repo.maven.apache.org/maven2/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 17 14:43:16 CST 2025
+@default-sonatype-nexus-staging-https\://oss.sonatype.org/service/local/staging/deploy/maven2/.lastUpdated=1742193796552
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1742193796688
+https\://oss.sonatype.org/service/local/staging/deploy/maven2/.error=Could not transfer artifact com.alibaba\:fastjson\:pom\:1.2.28 from/to sonatype-nexus-staging (https\://oss.sonatype.org/service/local/staging/deploy/maven2/)\: Not authorized

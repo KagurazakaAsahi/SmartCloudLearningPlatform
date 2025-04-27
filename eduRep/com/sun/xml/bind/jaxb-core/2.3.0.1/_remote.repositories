@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 17 14:43:19 CST 2025
+jaxb-core-2.3.0.1.jar>nexus-aliyun=
+jaxb-core-2.3.0.1.jar>alimaven=
+jaxb-core-2.3.0.1.pom>nexus-aliyun=
+jaxb-core-2.3.0.1.pom>alimaven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 17 14:43:19 CST 2025
+@default-sonatype-nexus-staging-https\://oss.sonatype.org/service/local/staging/deploy/maven2/.lastUpdated=1742193798719
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1742193799488
+https\://oss.sonatype.org/service/local/staging/deploy/maven2/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:jar\:1.8.3 from/to sonatype-nexus-staging (https\://oss.sonatype.org/service/local/staging/deploy/maven2/)\: Not authorized

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 26 17:35:35 CST 2019
+http\://repo.maven.apache.org/maven2/.lastUpdated=1577352935671
+@default-sonatype-nexus-staging-https\://oss.sonatype.org/service/local/staging/deploy/maven2/.lastUpdated=1577352935253
+https\://oss.sonatype.org/service/local/staging/deploy/maven2/.error=Could not transfer artifact com.aliyun\:aliyun-sdk-vod-upload\:pom\:1.4.6 from/to sonatype-nexus-staging (https\://oss.sonatype.org/service/local/staging/deploy/maven2/)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://repo.maven.apache.org/maven2/.error=
